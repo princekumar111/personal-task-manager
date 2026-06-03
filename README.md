@@ -1,5 +1,15 @@
 # Personal Task Manager
 
+## Live Demo Links
+
+Frontend:
+https://personal-task-manager-sage.vercel.app/
+
+Backend:
+https://personal-task-manager-backend-4a9s.onrender.com
+
+
+
 ## 📌 Project Description
 
 Personal Task Manager is a full-stack task management web application built as part of the Studio Graphene take-home exercise.
