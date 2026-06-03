@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cad6b6e5-aa69-485e-b278-c66dbf70a367",
+    "title": "Complete Studio Graphene Assignment",
+    "description": "Build Personal Task Manager using React, Node.js Express API, and JSON file storage. Test CRUD operations before submission.",
+    "dueDate": "2026-06-03",
+    "completed": false,
+    "createdAt": "2026-06-03T12:21:39.015Z"
+  },
+  {
+    "id": "ca0e09d0-608e-41fc-bdfa-589cee00586e",
+    "title": "Complete Assignment",
+    "description": "Testing CRUD operation",
+    "dueDate": "2026-06-03",
+    "completed": true,
+    "createdAt": "2026-06-03T12:22:09.517Z"
+  }
+]
