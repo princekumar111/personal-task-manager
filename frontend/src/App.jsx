@@ -3,7 +3,7 @@ import {useEffect,useState} from "react";
 import axios from "axios";
 
 
-const API="http://localhost:5000/api/tasks";
+const API = "https://personal-task-manager-backend-4a9s.onrender.com/api/tasks";
 
 
 function App(){

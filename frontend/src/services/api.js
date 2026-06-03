@@ -1,0 +1,24 @@
+import axios from "axios";
+
+const API_URL =
+    "https://personal-task-manager-backend-4a9s.onrender.com/api/tasks";
+
+export const getTasks = () => {
+    return axios.get(API_URL);
+};
+
+export const createTask = (task) => {
+    return axios.post(API_URL, task);
+};
+
+export const updateTask = (id, task) => {
+    return axios.put(`${API_URL}/${id}`, task);
+};
+
+export const deleteTask = (id) => {
+    return axios.delete(`${API_URL}/${id}`);
+};
+
+export const toggleTask = (id) => {
+    return axios.patch(`${API_URL}/${id}/status`);
+};
